@@ -226,4 +226,5 @@ All core capabilities are covered by 22 automated test cases in `test_app.py`:
 #### Q10: How does the application maintain state across different tabs and filter interactions?
 > **Answer:** We utilize Streamlit's `st.session_state` to store the active cleaned DataFrame, dataset metadata, and cached ML forecasts. This ensures seamless navigation across all 6 views without recomputing or reloading data on every user interaction.
 #   e c o m m e r c e p r o d u c t  
+ #   e c o m m e r c e p r o d u c t  
  
